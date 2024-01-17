@@ -1,0 +1,44 @@
+#introduction {
+    text-align: center;
+}
+
+#introduction h1, p, a {
+    margin: 0%;
+}
+
+.section {
+    margin-bottom: 0%;
+}
+hr{
+    margin-top: 0%;
+}
+
+.separate{
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    margin: 55px;
+}
+
+#education{
+    font-weight: bold;
+}
+#achievements{
+    font-weight: bold;
+}
+#experience{
+    font-weight: bold;
+}
+hr{
+    position: relative;
+    top: 1px;
+    border: none;
+    height: 2px;
+    background-color: rgb(8, 0, 0);
+    margin: bottom 1px;;
+
+}
+
